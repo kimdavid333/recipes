@@ -1,0 +1,12 @@
+Ingredient:
+	2 eggs
+	rice
+	butter
+	soy sauce
+
+Direction:
+    1. Fry 2 sunny-side-up eggs
+    2. Put them on top of rice
+    3. Add 2 spoonful of butter
+    4. Add a teaspoon amount of soy sauce
+	5. Mix them up gently and eat!!!
